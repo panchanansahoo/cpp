@@ -1,11 +1,3 @@
-
-/*  Sayansree Paria
-    email : sayansreeparia@gmail.com
-    github : https://github.com/Sayansree
-  
-    Insertion sort algorithm
-*/
-
 #include<bits/stdc++.h>
  using namespace std;
 
